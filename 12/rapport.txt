@@ -1,0 +1,4 @@
+=== Rapport d'analyse ===
+Phrase : TFTDR
+Nombre de mots : 1
+Nombre de caractères : 5
