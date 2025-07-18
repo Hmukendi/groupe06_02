@@ -6,16 +6,29 @@ Chaque dossier répresente ici une catégorie spécifique de problème et dans c
 
 
 Chaque dossier est répris ici avec la catégorie de problème résolu 
+
 1.Variables et types de données
+
 2.Opérateurs de base et saisie
+
 3.Conditions SI / ELIF / SINON
+
 4.Conditions enchaînées et instructions imbriquées
+
 5.Boucles For
+
 6.Boucles While
+
 7.Listes et tuples
+
 8.Itération par élément
+
 9.Méthodes de chaîne
+
 10.Opérateur de tranche (slicing)
+
 11.Fonctions
+
 12.Fichier IO — Écriture de fichiers
+
 13.Gestion des erreurs (Try/Except)
